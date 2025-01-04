@@ -2,7 +2,7 @@
 
 eBay SmartSort is a web app that utilizes the eBay API to make search queries and to store and display user preferences in their account. The frontend is built with React and incorporates components from the ShadCN open-source library, while the backend is powered by Flask. User information and preferences are stored and managed using MongoDB.
 
-![Alt text](/screenshots/"smartsort login page.png"?raw=true "Optional Title")
+![SmartSort Login Page](./screenshots/smartsort-login.png)
 
 ## Features
 - User-friendly interface for logging in and managing preferences.
